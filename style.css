@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    margin: 0;
+    height: 100vh;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    height: 40px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+i {
+    padding: 0px 10px;
+}
